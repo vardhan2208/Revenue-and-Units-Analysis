@@ -28,6 +28,4 @@ This project involved consolidating multiple tables using **SQL Server Managemen
 ## Conclusion
 By utilizing **SSMS** for data integration and **Power BI** for visualization, this project streamlined data accessibility and enhanced analytical capabilities. The **interactive dashboard** empowers users to make **informed, data-driven decisions**, optimizing inventory management and business processes.
 
----
-📌 *For a detailed step-by-step guide, refer to the attached presentation (PPT).*
 
